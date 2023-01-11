@@ -1,4 +1,21 @@
 
+/* For navbar styling */
+
+/* Modify the background color */   
+.navbar-custom {
+    background-color: #E1DDDA;
+}
+
+/* For Section Styling*/   
+.full-height {
+    height: 100vh;
+}
+
+
+
+
+
+
 .carousel .carousel-item {
     height: 100vh;
     overflow:hidden;
@@ -27,7 +44,7 @@
 
 
 body {
-    font-family: 'Crimson Pro', serif;
+    font-family: 'Montserrat';
 }
 
 #introCarousel {
